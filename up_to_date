@@ -1,1 +1,1 @@
-echo "okay" > up_to_date
+touch
