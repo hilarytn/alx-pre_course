@@ -1,1 +1,1 @@
-echo "this and that" > up_to_date
+echo "okay" > up_to_date
